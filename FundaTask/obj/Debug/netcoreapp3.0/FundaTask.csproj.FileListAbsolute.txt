@@ -1,0 +1,15 @@
+C:\Users\elitsa\source\repos\FundaTask\FundaTask\bin\Debug\netcoreapp3.0\FundaTask.exe
+C:\Users\elitsa\source\repos\FundaTask\FundaTask\obj\Debug\netcoreapp3.0\FundaTask.csprojAssemblyReference.cache
+C:\Users\elitsa\source\repos\FundaTask\FundaTask\obj\Debug\netcoreapp3.0\FundaTask.AssemblyInfoInputs.cache
+C:\Users\elitsa\source\repos\FundaTask\FundaTask\obj\Debug\netcoreapp3.0\FundaTask.AssemblyInfo.cs
+C:\Users\elitsa\source\repos\FundaTask\FundaTask\bin\Debug\netcoreapp3.0\FundaTask.deps.json
+C:\Users\elitsa\source\repos\FundaTask\FundaTask\bin\Debug\netcoreapp3.0\FundaTask.runtimeconfig.json
+C:\Users\elitsa\source\repos\FundaTask\FundaTask\bin\Debug\netcoreapp3.0\FundaTask.runtimeconfig.dev.json
+C:\Users\elitsa\source\repos\FundaTask\FundaTask\bin\Debug\netcoreapp3.0\FundaTask.dll
+C:\Users\elitsa\source\repos\FundaTask\FundaTask\bin\Debug\netcoreapp3.0\FundaTask.pdb
+C:\Users\elitsa\source\repos\FundaTask\FundaTask\bin\Debug\netcoreapp3.0\RestSharp.dll
+C:\Users\elitsa\source\repos\FundaTask\FundaTask\obj\Debug\netcoreapp3.0\FundaTask.csproj.CopyComplete
+C:\Users\elitsa\source\repos\FundaTask\FundaTask\obj\Debug\netcoreapp3.0\FundaTask.dll
+C:\Users\elitsa\source\repos\FundaTask\FundaTask\obj\Debug\netcoreapp3.0\FundaTask.pdb
+C:\Users\elitsa\source\repos\FundaTask\FundaTask\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\elitsa\source\repos\FundaTask\FundaTask\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
